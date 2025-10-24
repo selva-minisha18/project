@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #0072ff, #00c6ff);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background: #fff;
+  padding: 25px 40px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 450px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  color: #333;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.gender-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.terms {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  width: 48%;
+  border: none;
+  border-radius: 5px;
+  background-color: #0072ff;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #005fcc;
+}
+
+.reset-btn {
+  background-color: #ccc;
+  color: #000;
+}
+
+.error {
+  color: red;
+  font-size: 0.85em;
+  height: 14px;
+  display: block;
+}
+
+.success {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.hidden {
+  display: none;
+}
