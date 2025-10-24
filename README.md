@@ -36,7 +36,7 @@ The app is **lightweight, responsive, and easy to use**, making it ideal for beg
 ### 🌐 **Domain**
 
 *(Optional – replace with your actual deployment link if hosted)*
-🔗 [https://yourusername.github.io/IBM-FE-User-Registration](https://selva-minisha18.github.io/IBM-FE-User-Registration)
+🔗 [https://selva-minisha18.github.io/IBM-FE-User-Registration](https://selva-minisha18.github.io/IBM-FE-User-Registration)
 
 
 
